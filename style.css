@@ -1,4 +1,8 @@
-h1{font-style: italic;font-size: 200%;}
+p{font-style: italic;font-size: 180%;}
 
-.hello{border: 2px solid brown;box-shadow: 40px;}
+<<<<<<< HEAD
+
 body{background: #eee333;width: 50%;text-align: center;}
+=======
+.hello{color: green; font-family: Arial;}
+>>>>>>> new_style
