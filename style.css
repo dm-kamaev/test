@@ -1,4 +1,4 @@
 h1{font-style: italic;font-size: 200%;}
 
 .hello{border: 2px solid brown;box-shadow: 40px;}
-body{background: #eee333}
+body{background: #eee333;width: 50%;text-align: center;}
