@@ -1,3 +1,4 @@
 h1{font-style: italic;font-size: 200%;}
 
-.hello{color: brown; font-family: "Comic MC Sans";}
+.hello{border: 2px solid brown;box-shadow: 40px;}
+body{background: #eee333}
